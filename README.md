@@ -23,4 +23,4 @@ This project provides a  `DataInput`  class for handling and storing various dat
 - Make sure you jave jdk 23 installed on the system.
 - Clone the project using the link `https://github.com/aishikbh/DataInputEncoderDecoder.git`
 - Open using intellij or any other IDE.
-- You can run the tests located in the file `\src\test\java\org\DataInputEncoderDecoder`
+- You can run the tests located in the file `/src/test/java/org/DataInputEncoderDecoder`
